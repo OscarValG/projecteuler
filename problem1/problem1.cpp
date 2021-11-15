@@ -9,5 +9,5 @@ int main() {
 			resultado +=i;
 		}
 	}
-	std::cout<<'-'<<resultado;
+	std::cout<<resultado;
 }
